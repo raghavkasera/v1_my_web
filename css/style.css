@@ -18,17 +18,15 @@
     --timeline-color: blue;
 }
 
-
 ::selection {
-    
-    background: red;
+    color: #fff;
+    background: black;
   }
 
 ::-moz-selection {
-    background: red; 
+    color: #fff;
+    background: black;
 }
-
-
 
 img {    
     user-select: none;
